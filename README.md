@@ -38,7 +38,7 @@ source .venv/bin/activate
 Then install the dev tools and pre-commit hooks:
 
 ```
-python3 -m pip install --user -r requirements-dev.txt
+python3 -m pip install -r requirements-dev.txt
 pre-commit install
 ```
 
